@@ -5,6 +5,11 @@
 * 💡 Exploring the integration of **Zero Trust principles** into corporate LAN design.
 
 ---
+## 📈 System Metrics & Performance
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&rank_icon=github&hide_title=true" alt="Your GitHub Stats" />
+</p>
 
 ### 📫 Find Me on the Network
 
