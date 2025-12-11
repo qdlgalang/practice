@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="https://sl.bing.net/kOKtTO76IdE" alt="High-Tech Neon Circuitry Background" width="800" />
-</p>
+<div align="center">
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmV1NHF4b2M2amFjdGFnOGd6cW1kaDdlOWE3dDVnanZ2bG14b3FoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vBUz3Aoss4NzaUbO7S/giphy.gif"  />
+</div>
 
-# ⚡ SYSTEM STATUS: ONLINE | Pushing Packets to the Edge 🚀
-### A certified network architect and infrastructure developer specialized in creating **secure, fault-tolerant systems** and automated data pipelines.
-
----
+###
