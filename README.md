@@ -1,8 +1,14 @@
+## 📈 Live System Monitor & Current Objectives
+
 <p align="center">
-  <img src="YOUR_CUSTOM_BANNER_URL" alt="Data Stream Architect Neon Banner" width="800" />
+  <img src="YOUR_ANIMATED_ICON_GIF_URL" width="50" alt="Animated Processing Icon" /> 
 </p>
 
-# ✨ Data Stream Architect | Pushing Packets to the Edge ✨
-## 🔗 Establish Connection:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&rank_icon=github&hide_title=true&bg_color=000000" alt="Your GitHub Stats" />
+</p>
 
-[<img src="https://img.shields.io/badge/LinkedIn-Link_Up-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Link" />](YOUR_LINKEDIN_URL)
+* 🔭 Currently optimizing a **Multi-Area OSPF** topology in a simulated lab environment.
+* 🤝 Seeking collaborators for **network monitoring tools** using Python and SNMP.
+
+---
