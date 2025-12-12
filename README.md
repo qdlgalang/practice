@@ -75,16 +75,14 @@
 ### 📈 GitHub Stats
 <div align="center">
 
-<!-- Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=Dominique&show_icons=true&theme=radical&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&bg_color=000000&hide_border=false&border_radius=15" alt="GitHub Stats" height="180" style="box-shadow:0 0 20px #00FFFF;"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Dominique&show_icons=true&theme=radical&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&bg_color=000000" alt="GitHub Stats" width="450"/>
 
-<!-- Streak Card -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dominique&theme=radical&ring=00FFFF&fire=FF00FF&currStreakLabel=FFFFFF&background=000000&hide_border=false&border_radius=15" alt="GitHub Streak" height="180" style="box-shadow:0 0 20px #FF00FF;"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dominique&theme=radical&ring=00FFFF&fire=FF00FF&currStreakLabel=FFFFFF&background=000000" alt="GitHub Streak" width="450"/>
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dominique&layout=compact&theme=radical&title_color=FF00FF&text_color=FFFFFF&bg_color=000000&hide_border=false&border_radius=15" alt="Top Languages" height="180" style="box-shadow:0 0 20px #00FFFF;"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dominique&layout=compact&theme=radical&title_color=FF00FF&text_color=FFFFFF&bg_color=000000" alt="Top Languages" width="450"/>
 
 </div>
+
 ---
 
 ### 🌐 Connect With Me
