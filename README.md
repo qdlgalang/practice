@@ -5,8 +5,7 @@
   <img width="100%" src="https://media0.giphy.com/media/vBUz3Aoss4NzaUbO7S/giphy.gif" />
 
 <!-- Neon Pixel Intro -->
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Hello!+I+am+Dominique;Welcome+to+my+profile;Coding+|+Electronics+|+Networking;Designing+Impactful+Dashboards+with+Clarity" />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Hello!+I+am+Dominique;Welcome+to+my+profile" />
 
 ---
 
