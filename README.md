@@ -23,11 +23,17 @@
 ### 🎧 Currently Vibing To
 <div align="center">
 
-<!-- Spotify-like visual -->
-<img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="400" />
+<!-- Spotify-style card -->
+<img src="https://img.shields.io/badge/Spotify-Now_Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+
+<!-- Justin Bieber track visual -->
+<img src="https://i.scdn.co/image/ab67616d0000b273d72f9d7f1a3b6f8b6b5b5b5b" alt="Justin Bieber Album Cover" width="300" />
+
+<br>
+
+**Justin Bieber – Peaches (feat. Daniel Caesar, Giveon)**
 
 </div>
-
 ---
 
 ### 🚀 Tech Stack
