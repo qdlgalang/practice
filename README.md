@@ -27,24 +27,10 @@
 ### 🎧 Currently Vibing To
 <div align="center">
 
-<!-- Spotify Widget -->
-<table style="border-radius:15px;box-shadow:0 0 25px #00FFFF;background-color:#000000;padding:15px;">
-<tr>
-<td align="center">
-
-<!-- Spotify Logo -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" alt="Spotify Logo" width="50" />
-
-<!-- Track Info -->
-<h3 style="color:#00FFFF;">🎵 R&B Vibes</h3>
-<p style="color:#FF00FF;">Neo Soul • 90s • Chill</p>
-
-<!-- Progress Bar -->
-<img src="https://progress-bar.dev/45/?title=Now+Playing&width=300&color=00ffff" />
-
-</td>
-</tr>
-</table>
+<!-- Live Spotify Widget -->
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&redirect=true">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&bar_color=00ffff&bar_color_cover=true" alt="Spotify Now Playing" />
+</a>
 
 </div>
 
@@ -75,11 +61,17 @@
 ### 📈 GitHub Stats
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dominique&show_icons=true&theme=radical&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&bg_color=000000" alt="GitHub Stats" width="450"/>
+<!-- Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=Dominique&show_icons=true&theme=radical&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&bg_color=000000&hide_border=false&border_radius=15" 
+alt="GitHub Stats" height="180" style="box-shadow:0 0 20px #00FFFF; margin:10px;"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dominique&theme=radical&ring=00FFFF&fire=FF00FF&currStreakLabel=FFFFFF&background=000000" alt="GitHub Streak" width="450"/>
+<!-- Streak Card -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dominique&theme=radical&ring=00FFFF&fire=FF00FF&currStreakLabel=FFFFFF&background=000000&hide_border=false&border_radius=15" 
+alt="GitHub Streak" height="180" style="box-shadow:0 0 20px #FF00FF; margin:10px;"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dominique&layout=compact&theme=radical&title_color=FF00FF&text_color=FFFFFF&bg_color=000000" alt="Top Languages" width="450"/>
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dominique&layout=compact&theme=radical&title_color=FF00FF&text_color=FFFFFF&bg_color=000000&hide_border=false&border_radius=15" 
+alt="Top Languages" height="180" style="box-shadow:0 0 20px #00FFFF; margin:10px;"/>
 
 </div>
 
@@ -91,5 +83,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com)  
 [![Twitter](https://img.shields.io/badge/Twitter-FF00FF?style=for-the-badge&logo=twitter&logoColor=black)](https://twitter.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=github&logoColor=black)](https://github.com)
+
+</div>
+
+---
+
+### 👾 Profile Visitors
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Dominique&color=00FFFF&style=for-the-badge&label=VISITORS)
 
 </div>
