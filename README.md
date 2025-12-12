@@ -23,10 +23,11 @@
 ## 🎧 Currently Vibing To
 <div align="center">
 
-<!-- Spotify Live Widget -->
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&redirect=true">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&bar_color=00ffff&bar_color_cover=true" />
-</a>
+<img src="https://i.pinimg.com/originals/3e/2f/3e/3e2f3e2f3e2f3e2f3e2f3e2f3e2f3e2f.jpg" alt="R&B Playlist Cover" width="300" style="border-radius:15px;box-shadow:0 0 20px #00FFFF;" />
+
+<br>
+
+**R&B Vibes – Neo Soul, 90s, and Chill**
 
 </div>
 
