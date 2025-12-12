@@ -4,6 +4,16 @@
 
 ###a
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=30&duration=3000&color=FF0000&center=true&vCenter=true&width=200&lines=Test" />
+  <h1>
+    <span style="animation: colorchange 2s infinite;">Test</span>
+  </h1>
   <img height="600" src="https://media0.giphy.com/media/vBUz3Aoss4NzaUbO7S/giphy.gif" />
 </div>
+
+<style>
+@keyframes colorchange {
+  0% {color: red;}
+  50% {color: blue;}
+  100% {color: green;}
+}
+</style>
