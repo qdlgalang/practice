@@ -27,15 +27,19 @@
 ### 🎧 Currently Vibing To
 <div align="center">
 
-<!-- Neon R&B Playlist Visual -->
-<img src="https://i.scdn.co/image/ab67616d0000b273d72f9d7f1a3b6f8b6b5b5b5b" alt="R&B Playlist Cover" width="280" style="border-radius:15px;box-shadow:0 0 25px #FF00FF;" />
+### 🎧 Currently Vibing To
+<div align="center">
+
+<!-- Spotify Live Visual -->
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&redirect=true">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&bar_color=00ffff&bar_color_cover=true" />
+</a>
 
 <br>
 
 **🎵 R&B Vibes – Neo Soul, 90s, and Chill**
 
 </div>
-
 ---
 
 ### 🚀 Tech Stack
