@@ -6,7 +6,7 @@
   <img width="100%" src="https://media0.giphy.com/media/vBUz3Aoss4NzaUbO7S/giphy.gif" />
 
   <!-- Neon Pixel Intro -->
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Hello!+I'm+Dominqiue;Coding+⚡+Electronics+⚡+Networking;Designing+Impactful+Dashboards+with+Clarity" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Hello!+I'm+Dominqiue;Coding+|+Electronics+|+Networking;Designing+Impactful+Dashboards+with+Clarity" />
 
 </div>
 
@@ -23,13 +23,10 @@
 ## 🎧 Currently Vibing To
 <div align="center">
 
-<img src="https://img.shields.io/badge/Spotify-Now_Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
-
-<img src="https://i.scdn.co/image/ab67616d0000b273d72f9d7f1a3b6f8b6b5b5b5b" alt="Justin Bieber Album Cover" width="250" style="border-radius:15px;box-shadow:0 0 20px #00FFFF;" />
-
-<br>
-
-**🎵 Justin Bieber – Peaches (feat. Daniel Caesar, Giveon)**  
+<!-- Spotify Live Widget -->
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&redirect=true">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&bar_color=00ffff&bar_color_cover=true" />
+</a>
 
 </div>
 
