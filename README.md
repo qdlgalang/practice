@@ -41,7 +41,6 @@
 </div>
 
 ---
-
 ### 🚀 Tech Stack
 <div align="center">
 
@@ -51,14 +50,14 @@
 <!-- C++ -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++ Logo" width="60" height="60"/>
 
-<!-- Networking (Cisco) -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cisco/cisco-original.svg" alt="Cisco Logo" width="60" height="60"/>
+<!-- Cisco -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" alt="Cisco Logo" width="80" height="60"/>
 
 <!-- GitHub -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Logo" width="60" height="60"/>
 
 <!-- Spotify -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spotify/spotify-original.svg" alt="Spotify Logo" width="60" height="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" alt="Spotify Logo" width="60" height="60"/>
 
 </div>
 
