@@ -19,6 +19,7 @@
 * **LOCATION:** Mandaluyong City, Philippines 📍
 * **EDUCATION:** Technological Institute of the Philippines 🎓
 * **PASSIONS:** Deep dives into **`coding`**, **`electronics`**, and **`networking`** 💻
+* **HOBBY:** **`Listening to R&B Music`** 🎶
 * **FOCUS:** Crafting slick **`dashboards`** that prioritize both **`clarity`** and **`NEON impact`** 🎨
 * **VIBE:** Always looping **`R&B music`** for optimal flow state 🎧
 * **INSPIRATION:** The electric glow of **`retro neon`** + the precision of **`pixel art`** 🌌
