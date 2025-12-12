@@ -4,17 +4,6 @@
 
 ###a
 <div align="center">
-  <!-- Bold -->
-  <h3><b>Test</b></h3>
-
-  <!-- Larger font -->
-  <h1>Test</h1>
-
-  <!-- Colored text -->
-  <h3 style="color:blue;">Test</h3>
-
-  <!-- Bold + Colored -->
-  <h2 style="color:red;"><b>Test</b></h2>
-
+  <img src="https://readme-typing-svg.demolab.com?size=30&duration=3000&color=FF0000&center=true&vCenter=true&width=200&lines=Test" />
   <img height="600" src="https://media0.giphy.com/media/vBUz3Aoss4NzaUbO7S/giphy.gif" />
 </div>
